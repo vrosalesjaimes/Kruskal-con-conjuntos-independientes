@@ -10,7 +10,7 @@ import java.util.Scanner;
  * @author: Victor Rosales Jaimes.
  */
 
- public class Programa4{
+ public class Kruskal{
 
     /**
 	 * Lee el archivo con la información de una gráfica.
